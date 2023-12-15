@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBOnlineExamv1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="CR7\SQLEXPRESS:DESKTOP-PBR0UV5\Techno Shield">
+          <Created>2023-08-24T22:57:22.8768056+03:00</Created>
+          <Type>SQL</Type>
+          <Server>CR7\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DESKTOP-PBR0UV5\SQLSERVER2022:DESKTOP-PBR0UV5\Techno Shield">
+          <Created>2023-09-02T23:37:31.6931435+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-PBR0UV5\SQLSERVER2022</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Branch_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Branch_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Course_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Course_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Departement_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Departement_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exams_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CR7\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CR7\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Exams_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSTRUCROR_Student_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSTRUCROR_Student_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Intake_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Intake_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MainOfProject.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MainOfProject.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Question_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Question_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Track_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Track_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="USER_CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>USER_CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-PBR0UV5\SQLSERVER2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-PBR0UV5\SQLSERVER2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Views.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
